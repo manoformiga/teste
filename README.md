@@ -1,5 +1,5 @@
 README.md
-# Primeiro proketo ML (titanic)
+# Primeiro projeto ML (titanic)
 
 ## Projeto criado utilizando git.hub e github desktop
 
